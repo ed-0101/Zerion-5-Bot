@@ -1,0 +1,194 @@
+[
+  {
+    "from": "Ciryx-Tor",
+    "to": "Lume’karr",
+    "mode": "Slipstream Vessel",
+    "duration_minutes": 12,
+    "price": 120,
+    "route_id": "SLP-CT-LK-01"
+  },
+  {
+    "from": "Lume’karr",
+    "to": "Elython Verge",
+    "mode": "Ruthari Flyer",
+    "duration_minutes": 40,
+    "price": 80,
+    "route_id": "RTH-LK-EV-02"
+  },
+  {
+    "from": "Tyrax Null",
+    "to": "Neyvola",
+    "mode": "Aurora Rail",
+    "duration_minutes": 60,
+    "price": 100,
+    "route_id": "AR-TN-NY-03"
+  },
+  {
+    "from": "Neyvola",
+    "to": "Ciryx-Tor",
+    "mode": "Skyrail Express",
+    "duration_minutes": 30,
+    "price": 95,
+    "route_id": "SRE-NY-CT-04"
+  },
+  {
+    "from": "Elython Verge",
+    "to": "Tyrax Null",
+    "mode": "Stellar Shuttle",
+    "duration_minutes": 50,
+    "price": 110,
+    "route_id": "SS-EV-TN-05"
+  },
+  {
+    "from": "Lume’karr",
+    "to": "Tyrax Null",
+    "mode": "Slipstream Vessel",
+    "duration_minutes": 15,
+    "price": 130,
+    "route_id": "SLP-LK-TN-06"
+  },
+  {
+    "from": "Ciryx-Tor",
+    "to": "Elython Verge",
+    "mode": "Aurora Rail",
+    "duration_minutes": 45,
+    "price": 90,
+    "route_id": "AR-CT-EV-07"
+  },
+  {
+    "from": "Neyvola",
+    "to": "Lume’karr",
+    "mode": "Ruthari Flyer",
+    "duration_minutes": 35,
+    "price": 85,
+    "route_id": "RTH-NY-LK-08"
+  },
+  {
+    "from": "Elython Verge",
+    "to": "Ciryx-Tor",
+    "mode": "Skyrail Express",
+    "duration_minutes": 55,
+    "price": 105,
+    "route_id": "SRE-EV-CT-09"
+  },
+  {
+    "from": "Tyrax Null",
+    "to": "Lume’karr",
+    "mode": "Stellar Shuttle",
+    "duration_minutes": 70,
+    "price": 120,
+    "route_id": "SS-TN-LK-10"
+  },
+  {
+    "from": "Ciryx-Tor",
+    "to": "Neyvola",
+    "mode": "Slipstream Vessel",
+    "duration_minutes": 25,
+    "price": 115,
+    "route_id": "SLP-CT-NY-11"
+  },
+  {
+    "from": "Lume’karr",
+    "to": "Elython Verge",
+    "mode": "Aurora Rail",
+    "duration_minutes": 30,
+    "price": 75,
+    "route_id": "AR-LK-EV-12"
+  },
+  {
+    "from": "Neyvola",
+    "to": "Tyrax Null",
+    "mode": "Ruthari Flyer",
+    "duration_minutes": 65,
+    "price": 95,
+    "route_id": "RTH-NY-TN-13"
+  },
+  {
+    "from": "Elython Verge",
+    "to": "Lume’karr",
+    "mode": "Skyrail Express",
+    "duration_minutes": 20,
+    "price": 100,
+    "route_id": "SRE-EV-LK-14"
+  },
+  {
+    "from": "Tyrax Null",
+    "to": "Ciryx-Tor",
+    "mode": "Stellar Shuttle",
+    "duration_minutes": 80,
+    "price": 130,
+    "route_id": "SS-TN-CT-15"
+  },
+  {
+    "from": "Lume’karr",
+    "to": "Neyvola",
+    "mode": "Slipstream Vessel",
+    "duration_minutes": 45,
+    "price": 125,
+    "route_id": "SLP-LK-NY-16"
+  },
+  {
+    "from": "Ciryx-Tor",
+    "to": "Elython Verge",
+    "mode": "Ruthari Flyer",
+    "duration_minutes": 50,
+    "price": 85,
+    "route_id": "RTH-CT-EV-17"
+  },
+  {
+    "from": "Neyvola",
+    "to": "Lume’karr",
+    "mode": "Skyrail Express",
+    "duration_minutes": 40,
+    "price": 90,
+    "route_id": "SRE-NY-LK-18"
+  },
+  {
+    "from": "Elython Verge",
+    "to": "Tyrax Null",
+    "mode": "Slipstream Vessel",
+    "duration_minutes": 55,
+    "price": 110,
+    "route_id": "SLP-EV-TN-19"
+  },
+  {
+    "from": "Tyrax Null",
+    "to": "Lume’karr",
+    "mode": "Aurora Rail",
+    "duration_minutes": 65,
+    "price": 120,
+    "route_id": "AR-TN-LK-20"
+  },
+  {
+    "from": "Ciryx-Tor",
+    "to": "Neyvola",
+    "mode": "Ruthari Flyer",
+    "duration_minutes": 30,
+    "price": 100,
+    "route_id": "RTH-CT-NY-21"
+  },
+  {
+    "from": "Lume’karr",
+    "to": "Elython Verge",
+    "mode": "Skyrail Express",
+    "duration_minutes": 25,
+    "price": 95,
+    "route_id": "SRE-LK-EV-22"
+  },
+  {
+    "from": "Neyvola",
+    "to": "Ciryx-Tor",
+    "mode": "Stellar Shuttle",
+    "duration_minutes": 75,
+    "price": 115,
+    "route_id": "SS-NY-CT-23"
+  },
+  {
+    "from": "Elython Verge",
+    "to": "Tyrax Null",
+    "mode": "Slipstream Vessel",
+    "duration_minutes": 60,
+    "price": 130,
+    "route_id": "SLP-EV-TN-24"
+  }
+]

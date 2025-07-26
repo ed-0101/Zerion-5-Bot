@@ -1,0 +1,27 @@
+Planet Name: Zerion-5
+Location: Androvia System, Sector-91X, Nebulark Galaxy
+Gravity: 1.2x Earth
+Average Temperature: 35°C (equator), -50°C (poles)
+Seasons:
+  - Auranox (Blooming, 90 days)
+  - Thyrex (Neutral, 60 days)
+  - Solquor (Hot, 100 days)
+  - Xireth (Frozen, 90 days)
+  - Nyralis (Eclipse Season, 80 days)
+Moons: Neyra, Lythos, Velari
+Oceans: Silven (liquid-crystalline, bioluminescent)
+Dominant Species: Xelariens
+Population: ~38 billion
+Sentient Languages: Velk’toran (light, sound, telepathy)
+Time:
+  - 1 Zerion Day = 31 Earth Hours
+  - 1 Year = 420 Zerion Days (~500 Earth days)
+Technology: 
+  - Slipstream Vessels (intercity)
+  - Skyrails (continent tubes)
+  - Gravitic Wells (interstellar)
+  - Living Architecture (bio-grown homes)
+  - Dream Pods (education)
+Government: Council of Harmonics (AI-organic representatives)
+Security: Aether Wall shield, Zentinel Escorts, Obsidian Ring force
+Currency: Essence Tokens (value-based contribution system)

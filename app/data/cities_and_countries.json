@@ -1,0 +1,36 @@
+[
+  {
+    "country": "Veltherion Accord",
+    "cities": [
+      {
+        "name": "Ciryx-Tor",
+        "type": "Vertical City",
+        "description": "A tech-megalopolis built around a quantum core. Known for its knowledge temples, AI councils, and vertical gardens.",
+        "popular_spots": ["Pulse Library", "Echo Dome", "Velk Nexus"]
+      },
+      {
+        "name": "Elython Verge",
+        "type": "Underground City",
+        "description": "Located deep beneath the Ice Cradle, this city is made entirely of living crystal and serves as a retreat for mystics and scientists.",
+        "popular_spots": ["CryoMuse", "Glow Hall", "The Subharmonics"]
+      }
+    ]
+  },
+  {
+    "country": "Zenthari Realm",
+    "cities": [
+      {
+        "name": "Lume’karr",
+        "type": "Sky Metropolis",
+        "description": "A floating city suspended by anti-grav fields. Famous for cloud-walking platforms and atmospheric resorts.",
+        "popular_spots": ["Skygrove Spa", "Nimbus Plaza", "Floating Amphitheater"]
+      },
+      {
+        "name": "Tyrax Null",
+        "type": "Energy Hub",
+        "description": "Zerion’s power capital, orbiting close to the sun. Entire city harnesses solar flares to power the planet's slipstream network.",
+        "popular_spots": ["Solar Halo", "Zerium Core Hub", "Ignis Tower"]
+      }
+    ]
+  }
+]

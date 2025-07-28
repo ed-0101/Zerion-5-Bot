@@ -89,3 +89,597 @@ Zerion‑5 is a glimpse into what life might become when survival is no longer t
 When you leave Zerion‑5, you carry more than souvenirs. You carry echoes—light songs that will flicker in your dreams, smells that remind you of peace, and a subtle yearning to return not just to the place, but to the version of yourself you became while there.
 
 You are now a bearer of resonance.
+
+From: Ciryx-Tor
+To: Lume’karr
+Mode: Slipstream Vessel
+Duration (minutes): 12
+Price: 120
+Route ID: SLP-CT-LK-01
+
+From: Lume’karr
+To: Elython Verge
+Mode: Ruthari Flyer
+Duration (minutes): 40
+Price: 80
+Route ID: RTH-LK-EV-02
+
+From: Tyrax Null
+To: Neyvola
+Mode: Aurora Rail
+Duration (minutes): 60
+Price: 100
+Route ID: AR-TN-NY-03
+
+From: Neyvola
+To: Ciryx-Tor
+Mode: Skyrail Express
+Duration (minutes): 30
+Price: 95
+Route ID: SRE-NY-CT-04
+
+From: Elython Verge
+To: Tyrax Null
+Mode: Stellar Shuttle
+Duration (minutes): 50
+Price: 110
+Route ID: SS-EV-TN-05
+
+From: Lume’karr
+To: Tyrax Null
+Mode: Slipstream Vessel
+Duration (minutes): 15
+Price: 130
+Route ID: SLP-LK-TN-06
+
+From: Ciryx-Tor
+To: Elython Verge
+Mode: Aurora Rail
+Duration (minutes): 45
+Price: 90
+Route ID: AR-CT-EV-07
+
+From: Neyvola
+To: Lume’karr
+Mode: Ruthari Flyer
+Duration (minutes): 35
+Price: 85
+Route ID: RTH-NY-LK-08
+
+From: Elython Verge
+To: Ciryx-Tor
+Mode: Skyrail Express
+Duration (minutes): 55
+Price: 105
+Route ID: SRE-EV-CT-09
+
+From: Tyrax Null
+To: Lume’karr
+Mode: Stellar Shuttle
+Duration (minutes): 70
+Price: 120
+Route ID: SS-TN-LK-10
+
+From: Ciryx-Tor
+To: Neyvola
+Mode: Slipstream Vessel
+Duration (minutes): 25
+Price: 115
+Route ID: SLP-CT-NY-11
+
+From: Lume’karr
+To: Elython Verge
+Mode: Aurora Rail
+Duration (minutes): 30
+Price: 75
+Route ID: AR-LK-EV-12
+
+From: Neyvola
+To: Tyrax Null
+Mode: Ruthari Flyer
+Duration (minutes): 65
+Price: 95
+Route ID: RTH-NY-TN-13
+
+From: Elython Verge
+To: Lume’karr
+Mode: Skyrail Express
+Duration (minutes): 20
+Price: 100
+Route ID: SRE-EV-LK-14
+
+From: Tyrax Null
+To: Ciryx-Tor
+Mode: Stellar Shuttle
+Duration (minutes): 80
+Price: 130
+Route ID: SS-TN-CT-15
+
+From: Lume’karr
+To: Neyvola
+Mode: Slipstream Vessel
+Duration (minutes): 45
+Price: 125
+Route ID: SLP-LK-NY-16
+
+From: Ciryx-Tor
+To: Elython Verge
+Mode: Ruthari Flyer
+Duration (minutes): 50
+Price: 85
+Route ID: RTH-CT-EV-17
+
+From: Neyvola
+To: Lume’karr
+Mode: Skyrail Express
+Duration (minutes): 40
+Price: 90
+Route ID: SRE-NY-LK-18
+
+From: Elython Verge
+To: Tyrax Null
+Mode: Slipstream Vessel
+Duration (minutes): 55
+Price: 110
+Route ID: SLP-EV-TN-19
+
+From: Tyrax Null
+To: Lume’karr
+Mode: Aurora Rail
+Duration (minutes): 65
+Price: 120
+Route ID: AR-TN-LK-20
+
+From: Ciryx-Tor
+To: Neyvola
+Mode: Ruthari Flyer
+Duration (minutes): 30
+Price: 100
+Route ID: RTH-CT-NY-21
+
+From: Lume’karr
+To: Elython Verge
+Mode: Skyrail Express
+Duration (minutes): 25
+Price: 95
+Route ID: SRE-LK-EV-22
+
+From: Neyvola
+To: Ciryx-Tor
+Mode: Stellar Shuttle
+Duration (minutes): 75
+Price: 115
+Route ID: SS-NY-CT-23
+
+From: Elython Verge
+To: Tyrax Null
+Mode: Slipstream Vessel
+Duration (minutes): 60
+Price: 130
+Route ID: SLP-EV-TN-24
+
+
+Hotel ID: H001
+Name: Skyfall Horizon
+City: Lume’karr
+Country: Zenthari Realm
+Price per Night: 450
+Star Rating: 5
+Features: Skyview rooms, Vegan dining, Anti-grav pool
+
+Hotel ID: H002
+Name: Crystal Nest
+City: Elython Verge
+Country: Veltherion Accord
+Price per Night: 320
+Star Rating: 4
+Features: Crystal spa, Subterrain café, Dream pod beds
+
+Hotel ID: H003
+Name: Pulse Residency
+City: Ciryx-Tor
+Country: Veltherion Accord
+Price per Night: 500
+Star Rating: 5
+Features: Quantum concierge, AI wellness, Meditation zones
+
+Hotel ID: H004
+Name: Nebula Rest
+City: Tyrax Null
+Country: Zenthari Realm
+Price per Night: 270
+Star Rating: 4
+Features: Sun-shielded domes, Energy bar, Telepathic service
+
+Hotel ID: H005
+Name: Velari Bloom
+City: Neyvola
+Country: Myrron Union
+Price per Night: 380
+Star Rating: 4
+Features: Floating suites, Ocean-view dining, Bioluminescent lounge
+
+Hotel ID: H006
+Name: Stellar Haven
+City: Orion's Edge
+Country: Myrron Union
+Price per Night: 600
+Star Rating: 5
+Features: Zero-gravity gym, Holographic entertainment, Cosmic cuisine
+
+Hotel ID: H007
+Name: Galactic Oasis
+City: Thyra Plains
+Country: Veltherion Accord
+Price per Night: 410
+Star Rating: 4
+Features: Starlit terraces, Holo-massage, Interstellar bar
+
+Hotel ID: H008
+Name: Quantum Retreat
+City: Seraphis Heights
+Country: Zenthari Realm
+Price per Night: 550
+Star Rating: 5
+Features: Virtual reality spa, Celestial dining, Gravity-defying yoga
+
+Hotel ID: H009
+Name: Astro Lodge
+City: Veloria Bay
+Country: Myrron Union
+Price per Night: 290
+Star Rating: 3
+Features: Beachfront views, Solar-powered amenities, Eco-friendly rooms
+
+Hotel ID: H010
+Name: Zenith Point
+City: Orion's Peak
+Country: Zenthari Realm
+Price per Night: 480
+Star Rating: 5
+Features: Infinity pool, Rooftop observatory, Gourmet fusion restaurant
+
+Hotel ID: H011
+Name: Starlight Suites
+City: Veloria Bay
+Country: Myrron Union
+Price per Night: 360
+Star Rating: 4
+Features: Oceanic spa, Star-gazing deck, Biophilic design
+
+Hotel ID: H012
+Name: Comet's Rest
+City: Thyra Plains
+Country: Veltherion Accord
+Price per Night: 400
+Star Rating: 4
+Features: Meteor shower lounge, Celestial café, Holo-art gallery
+
+Hotel ID: H013
+Name: Asteroid Haven
+City: Ciryx-Tor
+Country: Zenthari Realm
+Price per Night: 330
+Star Rating: 3
+Features: Lunar-themed rooms, Solar gardens, Eco-conscious amenities
+
+Hotel ID: H014
+Name: Orbit Inn
+City: Elython Verge
+Country: Myrron Union
+Price per Night: 250
+Star Rating: 3
+Features: Stellar views, Solar-powered rooms, Eco-friendly dining
+
+Hotel ID: H015
+Name: Gravity Lodge
+City: Seraphis Heights
+Country: Veltherion Accord
+Price per Night: 370
+Star Rating: 4
+Features: Anti-grav suites, Holo-gym, Cosmic café
+
+Hotel ID: H016
+Name: Starfall Retreat
+City: Neyvola
+Country: Zenthari Realm
+Price per Night: 520
+Star Rating: 5
+Features: Lunar observatory, Celestial spa, Gourmet dining
+
+Hotel ID: H017
+Name: Astro Haven
+City: Orion's Edge
+Country: Veltherion Accord
+Price per Night: 290
+Star Rating: 3
+Features: Stellar gardens, Solar-powered amenities, Eco-friendly rooms
+
+Hotel ID: H018
+Name: Comet Cove
+City: Veloria Bay
+Country: Zenthari Realm
+Price per Night: 310
+Star Rating: 3
+Features: Beachfront views, Solar-powered amenities, Eco-friendly rooms
+
+Hotel ID: H019
+Name: Galactic Gateway
+City: Thyra Plains
+Country: Myrron Union
+Price per Night: 450
+Star Rating: 5
+Features: Starlit observatory, Quantum dining, Holo-entertainment
+
+Hotel ID: H020
+Name: Zenith Retreat
+City: Ciryx-Tor
+Country: Zenthari Realm
+Price per Night: 400
+Star Rating: 4
+Features: Lunar spa, Celestial dining, Holo-gym
+
+Hotel ID: H021
+Name: Stellar Point
+City: Orion's Peak
+Country: Veltherion Accord
+Price per Night: 480
+Star Rating: 5
+Features: Infinity pool, Rooftop observatory, Gourmet fusion restaurant
+
+Hotel ID: H022
+Name: Quantum Haven
+City: Neyvola
+Country: Zenthari Realm
+Price per Night: 550
+Star Rating: 5
+Features: Virtual reality spa, Celestial dining, Gravity-defying yoga
+
+Hotel ID: H023
+Name: Astro Oasis
+City: Seraphis Heights
+Country: Myrron Union
+Price per Night: 360
+Star Rating: 4
+Features: Starlit terraces, Holo-massage, Interstellar bar
+
+Hotel ID: H024
+Name: Comet's Nest
+City: Elython Verge
+Country: Zenthari Realm
+Price per Night: 320
+Star Rating: 4
+Features: Crystal spa, Subterrain café, Dream pod beds
+
+Hotel ID: H025
+Name: Gravity Retreat
+City: Tyrax Null
+Country: Veltherion Accord
+Price per Night: 270
+Star Rating: 4
+Features: Sun-shielded domes, Energy bar, Telepathic service
+
+Hotel ID: H026
+Name: Starlight Haven
+City: Veloria Bay
+Country: Zenthari Realm
+Price per Night: 600
+Star Rating: 5
+Features: Zero-gravity gym, Holographic entertainment, Cosmic cuisine
+
+Hotel ID: H027
+Name: Asteroid Oasis
+City: Orion's Edge
+Country: Myrron Union
+Price per Night: 410
+Star Rating: 4
+Features: Starlit terraces, Holo-massage, Interstellar bar
+
+Hotel ID: H028
+Name: Orbit Retreat
+City: Thyra Plains
+Country: Zenthari Realm
+Price per Night: 480
+Star Rating: 5
+Features: Infinity pool, Rooftop observatory, Gourmet fusion restaurant
+
+Hotel ID: H029
+Name: Gravity Haven
+City: Ciryx-Tor
+Country: Veltherion Accord
+Price per Night: 550
+Star Rating: 5
+Features: Virtual reality spa, Celestial dining, Gravity-defying yoga
+
+Hotel ID: H030
+Name: Starfall Haven
+City: Neyvola
+Country: Myrron Union
+Price per Night: 520
+Star Rating: 5
+Features: Lunar observatory, Celestial spa, Gourmet dining
+
+Hotel ID: H031
+Name: Astro Retreat
+City: Orion's Peak
+Country: Zenthari Realm
+Price per Night: 290
+Star Rating: 3
+Features: Stellar gardens, Solar-powered amenities, Eco-friendly rooms
+
+Hotel ID: H032
+Name: Comet Haven
+City: Veloria Bay
+Country: Myrron Union
+Price per Night: 310
+Star Rating: 3
+Features: Beachfront views, Solar-powered amenities, Eco-friendly rooms
+
+Hotel ID: H033
+Name: Galactic Rest
+City: Thyra Plains
+Country: Veltherion Accord
+Price per Night: 450
+Star Rating: 5
+Features: Starlit observatory, Quantum dining, Holo-entertainment
+
+Hotel ID: H034
+Name: Zenith Haven
+City: Ciryx-Tor
+Country: Zenthari Realm
+Price per Night: 400
+Star Rating: 4
+Features: Lunar spa, Celestial dining, Holo-gym
+
+Hotel ID: H035
+Name: Stellar Oasis
+City: Orion's Edge
+Country: Veltherion Accord
+Price per Night: 480
+Star Rating: 5
+Features: Infinity pool, Rooftop observatory, Gourmet fusion restaurant
+
+Hotel ID: H036
+Name: Quantum Point
+City: Neyvola
+Country: Zenthari Realm
+Price per Night: 550
+Star Rating: 5
+Features: Virtual reality spa, Celestial dining, Gravity-defying yoga
+
+Hotel ID: H037
+Name: Astro Haven
+City: Seraphis Heights
+Country: Myrron Union
+Price per Night: 360
+Star Rating: 4
+Features: Starlit terraces, Holo-massage, Interstellar bar
+
+Hotel ID: H038
+Name: Comet's Retreat
+City: Elython Verge
+Country: Zenthari Realm
+Price per Night: 320
+Star Rating: 4
+Features: Crystal spa, Subterrain café, Dream pod beds
+
+Hotel ID: H039
+Name: Gravity Nest
+City: Tyrax Null
+Country: Veltherion Accord
+Price per Night: 270
+Star Rating: 4
+Features: Sun-shielded domes, Energy bar, Telepathic service
+
+Hotel ID: H040
+Name: Starlight Retreat
+City: Veloria Bay
+Country: Zenthari Realm
+Price per Night: 600
+Star Rating: 5
+Features: Zero-gravity gym, Holographic entertainment, Cosmic cuisine
+
+Hotel ID: H041
+Name: Asteroid Haven
+City: Orion's Edge
+Country: Myrron Union
+Price per Night: 410
+Star Rating: 4
+Features: Starlit terraces, Holo-massage, Interstellar bar
+
+Hotel ID: H042
+Name: Orbit Haven
+City: Thyra Plains
+Country: Zenthari Realm
+Price per Night: 480
+Star Rating: 5
+Features: Infinity pool, Rooftop observatory, Gourmet fusion restaurant
+
+Hotel ID: H043
+Name: Gravity Retreat
+City: Ciryx-Tor
+Country: Veltherion Accord
+Price per Night: 550
+Star Rating: 5
+Features: Virtual reality spa, Celestial dining, Gravity-defying yoga
+
+Hotel ID: H044
+Name: Starfall Oasis
+City: Neyvola
+Country: Myrron Union
+Price per Night: 520
+Star Rating: 5
+Features: Lunar observatory, Celestial spa, Gourmet dining
+
+Hotel ID: H045
+Name: Astro Haven
+City: Orion's Peak
+Country: Zenthari Realm
+Price per Night: 290
+Star Rating: 3
+Features: Stellar gardens, Solar-powered amenities, Eco-friendly rooms
+
+Hotel ID: H046
+Name: Comet Haven
+City: Veloria Bay
+Country: Myrron Union
+Price per Night: 310
+Star Rating: 3
+Features: Beachfront views, Solar-powered amenities, Eco-friendly rooms
+
+Hotel ID: H047
+Name: Galactic Rest
+City: Thyra Plains
+Country: Veltherion Accord
+Price per Night: 450
+Star Rating: 5
+Features: Starlit observatory, Quantum dining, Holo-entertainment
+
+Hotel ID: H048
+Name: Zenith Haven
+City: Ciryx-Tor
+Country: Zenthari Realm
+Price per Night: 400
+Star Rating: 4
+Features: Lunar spa, Celestial dining, Holo-gym
+
+Hotel ID: H049
+Name: Stellar Oasis
+City: Orion's Edge
+Country: Veltherion Accord
+Price per Night: 480
+Star Rating: 5
+Features: Infinity pool, Rooftop observatory, Gourmet fusion restaurant
+
+Hotel ID: H050
+Name: Quantum Point
+City: Neyvola
+Country: Zenthari Realm
+Price per Night: 550
+Star Rating: 5
+Features: Virtual reality spa, Celestial dining, Gravity-defying yoga
+
+Country: Veltherion Accord
+City: Ciryx-Tor
+Type: Vertical City
+Description: A tech-megalopolis built around a quantum core. Known for its knowledge temples, AI councils, and vertical gardens.
+Popular Spots: Pulse Library, Echo Dome, Velk Nexus
+
+Country: Veltherion Accord
+City: Elython Verge
+Type: Underground City
+Description: Located deep beneath the Ice Cradle, this city is made entirely of living crystal and serves as a retreat for mystics and scientists.
+Popular Spots: CryoMuse, Glow Hall, The Subharmonics
+
+Country: Zenthari Realm
+City: Lume’karr
+Type: Sky Metropolis
+Description: A floating city suspended by anti-grav fields. Famous for cloud-walking platforms and atmospheric resorts.
+Popular Spots: Skygrove Spa, Nimbus Plaza, Floating Amphitheater
+
+Country: Zenthari Realm
+City: Tyrax Null
+Type: Energy Hub
+Description: Zerion’s power capital, orbiting close to the sun. Entire city harnesses solar flares to power the planet's slipstream network.
+Popular Spots: Solar Halo, Zerium Core Hub, Ignis Tower
+

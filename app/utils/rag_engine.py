@@ -4,7 +4,7 @@ from chromadb.utils.embedding_functions import SentenceTransformerEmbeddingFunct
 import chromadb
 from chromadb.config import Settings
 
-client = chromadb.Client(Settings(persist_directory="../data/chroma_store"))
+client = chromadb.Client(Settings(persist_directory="app/data/chroma_store"))
 
 embedding_fn = SentenceTransformerEmbeddingFunction(model_name="all-MiniLM-L6-v2")
 

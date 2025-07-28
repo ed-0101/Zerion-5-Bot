@@ -21,6 +21,7 @@ app.include_router(a2_hotel_food.router, prefix="/agent2", tags=["Hotel & Food"]
 app.include_router(a3_local_travel.router, prefix="/agent3", tags=["Local Travel"])
 app.include_router(a4_security.router, prefix="/agent4", tags=["Security"])
 app.include_router(agentX.router, prefix="/agentX", tags=["Full Planner"])
+app.include_router(agentX.router, prefix="/agentx", tags=["Lets Chat"])
 
 @app.get("/")
 def read_root():

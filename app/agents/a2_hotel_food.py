@@ -8,13 +8,14 @@ from app.utils.rag_engine import query_documents, initialize_rag_engine
 
 router = APIRouter()
 
-class HotelFoodRequest(BaseModel):
+class HotelRequest(BaseModel):
     name: str
     city: str
-    stay_dates: List[str]  # ["start_date", "end_date"]
+    starting_date: str
+    ending_date: str
 
 @router.post("/book")
-def book_hotel_and_food(request: HotelFoodRequest):
+def book_hotel_and_food(request: HotelRequest):
     df = csv_data.get("hotel_directory.csv")
     if df is None:
         return {"error": "Hotel directory data not available."}
@@ -35,7 +36,7 @@ def book_hotel_and_food(request: HotelFoodRequest):
     food_info = rag_result["documents"] if rag_result and "documents" in rag_result else []
 
     return {
-        "message": f"Hotel and food booking confirmed for {request.name} in {request.city} from {request.stay_dates[0]} to {request.stay_dates[1]}",
+        "message": f"Hotel and food booking confirmed for {request.name} in {request.city} from {request.starting_date} to {request.ending_date}",
         "hotels": hotel_list,
         "food_suggestions": [f"Try local delicacies and ask for chef specials in {request.city} restaurants."],
         "info": food_info
